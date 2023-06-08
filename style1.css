@@ -1,0 +1,49 @@
+
+
+  body {
+
+    display: flex;
+  
+    }
+    
+
+.CAJA {
+
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.FUNKO {
+
+width: 300px;
+
+}
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.CAJA4 {
+
+
+    background-color: rgb(255, 122, 89);
+        
+
+}
+.CAJA3 {
+
+    background-color: #213343;
+}
+
+.CAJA2 {
+    background-color: #213343;
+}
+
+.CAJA5 {
+
+    text-align:center
+  
+    
+
+}
